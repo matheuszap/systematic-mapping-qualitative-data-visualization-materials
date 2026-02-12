@@ -1,0 +1,3 @@
+ALL ( ( "qualitative data" OR "textual data" ) AND 
+( "information visualization" OR "data visualization" OR "infovi*" ) AND 
+( "dashboard" OR "interactive interface" ) )

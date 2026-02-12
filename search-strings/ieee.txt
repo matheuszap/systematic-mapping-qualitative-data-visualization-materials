@@ -1,0 +1,3 @@
+("qualitative data" OR "textual data") AND
+("information visualization" OR "data visualization" OR "infovis" OR "infoviz" OR "visual analytics" OR "visualization design" OR "visualization techniques") AND 
+("dashboard" OR "interactive interface")

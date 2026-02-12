@@ -1,0 +1,1 @@
+[[All: "qualitative data"] OR [All: "textual data"]] AND [[All: "information visualization"] OR [All: "data visualization"] OR [All: "infovi*"]] AND [[All: "dashboard"] OR [All: "interactive interface"]]
